@@ -16,7 +16,7 @@
    <h4>Data collection</h4>
    <h6>This data set contains 416 liver patient records and 167 non liver patient records collected from North East of Andhra Pradesh, India. The "Dataset" column is a class label used to divide groups into liver patient (liver disease) or not (no disease). This data set contains 441 male patient records and 142 female patient records.Collected from kaggle.com.Age of the patient,Gender of the patient,Total Bilirubin,Direct Bilirubin,Alkaline Phosphotase,Alamine Aminotransferase,Aspartate Aminotransferase,Total Protiens,Albumin,Albumin and Globulin Ratio,Dataset: field used to split the data into two sets (patient with liver disease, or no disease)</h6>
    
-   Algorithm used-Logistic regression(refer liverdisease.py) and k nearest neighbor(refer liverdisease2.py)
+   Algorithm used-Logistic regression(refer liverdisease1.py) and k nearest neighbor(refer liverdisease2.py)
    Accuracy:Logistic regression-82.06% k nearest neighbor-74.06%
    
 <h4>Visualization</h4>
